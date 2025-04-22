@@ -1,0 +1,12 @@
+Rose:14
+Jasmine:12
+Sunflower:18
+Potato:13
+Tomato:17
+Carrot:11
+Apple Tree:8
+Cherry Tree:6
+Lemon Tree:10
+Cactus:8
+Aloe Vera:7
+Agave:9
